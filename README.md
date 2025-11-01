@@ -1,3 +1,4 @@
+<div align="center">
 # Customer Churn Prediction System - Portfolio Summary
 
 ## 🎯 Project Description
@@ -192,3 +193,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Telco Customer Churn dataset
 - XGBoost and TensorFlow communities
 - Scikit-learn for robust ML utilities
+
+</div>
