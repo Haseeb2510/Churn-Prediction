@@ -28,7 +28,7 @@ Built an advanced machine learning system that predicts customer churn with 80.5
 
 ## 💼 Business Impact
 
-![Model Comparison](visuals\5_business_impact.png)
+![Model Comparison](https://github.com/Haseeb2510/Churn-Prediction/blob/main/visuals/5_business_impact.png)
 
 ### Cost Savings
 - **30% reduction in false positives** = Fewer wasted retention efforts
