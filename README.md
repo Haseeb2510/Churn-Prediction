@@ -143,7 +143,7 @@ customer-churn-prediction/
 | **Recall** | 79.5% | 64.9% |
 | **F1-Score** | 0.682 | 0.644 |
 
-![Model Comparison](https://github.com/Haseeb2510/Churn-Prediction/blob/main/visuals\1_model_comparison.png)
+![Model Comparison](https://github.com/Haseeb2510/Churn-Prediction/blob/main/visuals/1_model_comparison.png)
 
 
 ### Ensemble Performance (Conservative)
@@ -154,7 +154,7 @@ customer-churn-prediction/
 | **Recall** | 76.8% | Good coverage |
 | **False Alarms** | 938 | 30% reduction vs baseline |
 
-![Model Comparison](https://github.com/Haseeb2510/Churn-Prediction/blob/main/visuals\6_ensemble_strategies.png)
+![Model Comparison](https://github.com/Haseeb2510/Churn-Prediction/blob/main/visuals/6_ensemble_strategies.png)
 
 ## 🚦 Getting Started
 
