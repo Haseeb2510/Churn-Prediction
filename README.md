@@ -1,4 +1,4 @@
-# Customer Churn Prediction System - Portfolio Summary
+# Customer Churn Prediction System 
 
 ## 🎯 Project Description
 
