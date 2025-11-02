@@ -185,7 +185,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Abdul Haseeb**
 - GitHub: [@Haseeb2510](https://github.com/Haseeb2510)
 - LinkedIn: [Abdul Haseeb](https://www.linkedin.com/in/haseeb-abdul-172542243)
 
