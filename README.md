@@ -155,6 +155,10 @@ customer-churn-prediction/
 
 ![Model Comparison](https://github.com/Haseeb2510/Churn-Prediction/blob/main/visuals/6_ensemble_strategies.png)
 
+### Read full notebook on the training procedure:
+
+![Model Comparison](https://github.com/Haseeb2510/Churn-Prediction/blob/main/notebooks/01_Customer_Churn_Training.ipynb)
+
 ## 🚦 Getting Started
 
 ### 1. Prerequisites
