@@ -112,9 +112,8 @@ customer-churn-prediction/
 │
 ├── demo.py                      # Quick demo script
 ├── visuals.py                   # Quick visualization of models
-├── portfolio_visuals.py         # Project visualizations
 ├── requirements.txt             # Python dependencies
-└── Summary.md                   # This file
+└── setup_guide.md            
 ```
 ## 🏆 Skills Demonstrated
 
