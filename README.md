@@ -49,6 +49,8 @@ Built an advanced machine learning system that predicts customer churn with 80.5
 | Recall | 79.5% | 64.9% | 76.8% |
 | F1-Score | 0.682 | 0.644 | 0.677 |
 
+![Model Comparison](https://github.com/Haseeb2510/Churn-Prediction/blob/main/visuals/1_model_comparison.png)
+
 ## 🔧 Key Features
 
 1. **Business-Optimized Thresholds**
@@ -142,9 +144,6 @@ customer-churn-prediction/
 | **Precision** | 59.8% | 64.0% |
 | **Recall** | 79.5% | 64.9% |
 | **F1-Score** | 0.682 | 0.644 |
-
-![Model Comparison](https://github.com/Haseeb2510/Churn-Prediction/blob/main/visuals/1_model_comparison.png)
-
 
 ### Ensemble Performance (Conservative)
 | Metric | Value | Business Impact |
