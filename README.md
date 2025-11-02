@@ -79,9 +79,9 @@ Built an advanced machine learning system that predicts customer churn with 80.5
 ```
 customer-churn-prediction/
 │
-├── 📁 analysis/                  # Model training visualizations
+├── 📁 analysis/                 # Model training visualizations
 │
-├── 📁 data/                    `# Data directory (add your data here)
+├── 📁 data/                     # Data directory (add your data here)
 │   ├── raw/                     # Raw customer data
 │   ├── worked/                  # Processed data
 │   └── new/                     # New customers for prediction
@@ -94,8 +94,8 @@ customer-churn-prediction/
 │   ├── xgb/                     # XGBoost models
 │   └── nn/                      # Neural Network models
 │
-├── 📁 notebook/                 # Notebook explanation
-│   └── predict_new.py           # Demonstrates the end-to-end pipeline
+├── 📁 notebook/                
+│   └── predict_new.py           # Explains the end-to-end pipeline
 │
 ├── 📁 prediction/
 │   └── predict_new.py           # Production prediction system
