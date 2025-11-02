@@ -157,7 +157,7 @@ customer-churn-prediction/
 
 ### You can view the full training notebook here:
 
-![📓 Model Training Notebook](https://github.com/Haseeb2510/Churn-Prediction/blob/main/notebooks/01_Customer_Churn_Training.ipynb)
+[📓 Model Training Notebook](https://github.com/Haseeb2510/Churn-Prediction/blob/main/notebooks/01_Customer_Churn_Training.ipynb)
 
 ## 🚦 Getting Started
 
